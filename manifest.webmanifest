@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Fretwise — 90-Day Guitar Course",
+  "short_name": "Fretwise",
+  "description": "Your personal 12-week guitar practice studio",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0c1422",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
